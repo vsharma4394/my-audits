@@ -8,7 +8,7 @@ A collection of my public security audits. You can find my work on my [Twitter P
 | --- | --- | --- | --- | --- |
 | **Union Finance** | July 2024 | [View Contest](https://audits.sherlock.xyz/contests/445) | 4H | 1st Place |
 | **Olas Audit Contest and private mitigation audit** | June 2024 | [View Contest](https://code4rena.com/audits/2024-05-olas) | 1H / 4M (3 solo meds)| 2nd Place |
-| **Flare Network Audit** | June 2025 | [View Contest](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/##top) | 2M(1 solo med) / 1L | 10th Place |
+| **Flare Network Audit (with swarun id name)** | June 2025 | [View Contest](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/##top) | 2M(1 solo med) / 1L | 10th Place |
 | **Avantis v1.5** | October 2024 | [View Contest](https://audits.sherlock.xyz/contests/485) | 4M(1 solo med) | 8th Place |
 | **TITLES Contest** | April 2024 | [View Contest](https://audits.sherlock.xyz/contests/326) | 3H / 3M | 3rd Place |
 | **Amphor Contest** | Mar 2024 | [View Contest](https://audits.sherlock.xyz/contests/244) | 1H / 1M | 6th Place |
