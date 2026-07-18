@@ -37,5 +37,3 @@ Interested in working together? DM me [@VarunSh10464530](https://x.com/VarunSh10
 | 06 | BuilDifi | Solidity – EVM (Uniswap v4) | Custom Uniswap v4 hook logic, staking and Aave-staking mechanisms, and a launch mechanism with lending and borrowing - audited alongside fellow CD Security researchers | [CD Security](https://cdsecurity.site/) | 3C/9H/13M/15L |[🧾](https://github.com/CDSecurity/audits/blob/main/audit%20reports/BuilDefi-report.pdf)  |
 | 07 | Olas | Solidity – EVM | Mitigation review of the fixes for issues surfaced in the public Olas competition, verifying completeness and checking for regressions | Olas | - | [🧾](https://code4rena.com/reports/2024-05-olas) |
 
-Reports are published in [`reports/`](reports) once the client approves disclosure.
-Use 🧾 to link a published report and ⏳ while it's pending or private.
