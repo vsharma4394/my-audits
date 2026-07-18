@@ -14,8 +14,8 @@ Interested in working together? DM me [@VarunSh10464530](https://x.com/VarunSh10
 | [**TITLES**](https://audits.sherlock.xyz/contests/326) | NFT, royalty splits | 3H / 3M | 🥉 3rd Place | [View Report](contests/2024-04-titles.md) |
 | [**Amphor**](https://audits.sherlock.xyz/contests/244) | ERC4626 vaults, async deposits | 1H / 1M | 🏅 6th Place | [View Report](contests/2024-03-amphor.md) |
 | [**JOJO Exchange**](https://audits.sherlock.xyz/contests/136) | Perpetuals, cross-margin | 1M | 🏅 7th Place | [View Report](contests/2024-01-jojo-exchange.md) |
-| [**Orderly Network**](https://audits.sherlock.xyz/contests/404) | Orderbook DEX, cross-chain settlement | 1M | 🏅 7th Place | [View Report](contests/2024-06-orderly-network.md) |
-| [**Avantis v1.5**](https://audits.sherlock.xyz/contests/485) | Perpetuals, leverage, LP vault | 4M *(1 solo)* | 🏅 8th Place | [View Report](contests/2024-10-avantis.md) |
+| [**Orderly Network**](https://audits.sherlock.xyz/contests/404) | Orderbook DEX, cross-chain settlement | 1M | 🏅 7th Place | Private Contest|
+| [**Avantis v1.5**](https://audits.sherlock.xyz/contests/485) | Perpetuals, leverage, LP vault | 4M *(1 solo)* | 🏅 8th Place | Private Contest |
 | [**Napier Finance**](https://audits.sherlock.xyz/contests/369) | Yield tokenization, AMM | 2M | 🏅 9th Place | [View Report](contests/2024-05-napier.md) |
 | [**Flare — FAssets**](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/) | Bridged assets, collateral, agent liquidation | 2M *(1 solo)* / 1L | 🏅 10th Place | [View Report](contests/2025-06-flare-fassets.md) |
 | [**ZeroLend One**](https://audits.sherlock.xyz/contests/466) | Lending, borrowing, isolated pools | 6H / 1M | 21st Place | [View Report](contests/2024-08-zerolend.md) |
