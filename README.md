@@ -1,6 +1,6 @@
 # About Varun Sharma
 
-**Web3 security researcher.** 🥇 1st place · 10× top-10 finishes · **36 High** and **41 Medium** severity vulnerabilities across 14 public competitions, alongside private engagements with the [CD Security](https://cdsecurity.site/) team. Mathematics and Computing background. Also selected for Cantina Fellowship.
+**Web3 security researcher.** 🥇 1st place · 10× top-10 finishes · **35 High** and **41 Medium** severity vulnerabilities across 14 public competitions, alongside private engagements with the [CD Security](https://cdsecurity.site/) team. Mathematics and Computing background. Also selected for Cantina Fellowship.
 
 Interested in working together? DM me [@VarunSh10464530](https://x.com/VarunSh10464530) or email [vsharma4394@gmail.com](mailto:vsharma4394@gmail.com).
 
@@ -21,7 +21,7 @@ Interested in working together? DM me [@VarunSh10464530](https://x.com/VarunSh10
 | [**ZeroLend One**](https://audits.sherlock.xyz/contests/466) | Lending, borrowing, isolated pools | 6H / 1M | 21st Place | [View Report](contests/2024-08-zerolend.md) |
 | [**Infrared**](https://cantina.xyz/code/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/overview) | Liquid staking, reward distribution | 1H | 🏅 32nd Place | [View Report](contests/2025-01-infrared.md) |
 | [**RAAC**](https://codehawks.cyfrin.io/c/2025-02-raac) | RWA lending, stablecoin, ve-governance | 14H / 21M / 6L | — | [View Report](contests/2025-02-raac.md) |
-| [**Plume**](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/) | RWA, modular L2 | 6H / 1L  | 35th place | [View Report](contests/2025-08-plume.md) |
+| [**Plume**](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/) | RWA, modular L2 | 5H / 1L  | 35th place | [View Report](contests/2025-08-plume.md) |
 
 **Totals: 36H / 41M / 8L across Sherlock, Code4rena, Cantina, CodeHawks and Immunefi.**
 
