@@ -1,6 +1,6 @@
 # About Varun Sharma
 
-**Web3 security researcher.** 🥇 1st place · 10× top-10 finishes · **35 High** and **41 Medium** severity vulnerabilities across 14 public competitions, alongside private engagements with the [CD Security](https://cdsecurity.site/) team. Mathematics and Computing background. Also selected for Cantina Fellowship.
+**Web3 security researcher.** 🥇 1st place · 10× top-10 finishes · **35 High** and **41 Medium** severity vulnerabilities across 14 public competitions, alongside private engagements with the [CD Security](https://cdsecurity.site/) team. Mathematics and Computing background. Also selected for Cantina Fellowship. Currently selected for Cohort 5 of [Rektoff bootcamp](https://www.rektoff.xyz/bootcamp) as well 
 
 Interested in working together? DM me [@VarunSh10464530](https://x.com/VarunSh10464530) or email [vsharma4394@gmail.com](mailto:vsharma4394@gmail.com).
 
