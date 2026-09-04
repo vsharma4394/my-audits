@@ -18,11 +18,11 @@ Protocol names link to the contest page; the last column links to my write-ups f
 | [**Orderly Network**](https://audits.sherlock.xyz/contests/404) | Orderbook DEX, cross-chain settlement | 1M | 🏅 7th Place | Private Contest|
 | [**Avantis v1.5**](https://audits.sherlock.xyz/contests/485) | Perpetuals, leverage, LP vault | 4M *(1 solo)* | 🏅 8th Place | Private Contest |
 | [**Napier Finance**](https://audits.sherlock.xyz/contests/369) | Yield tokenization, AMM | 2M | 🏅 9th Place | [View Report](contests/2024-05-napier.md) |
-| [**Flare — FAssets**](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/) | Bridged assets, collateral, agent liquidation | 2M *(1 solo)* / 1L | 🏅 10th Place | [View Report](contests/2025-06-flare-fassets.md) |
+| [**Flare — FAssets**](https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/) | Bridged assets, collateral, agent liquidation | 2M *(1 solo)* / 1L | 🏅 10th Place(under swarun identity) | [View Report](contests/2025-06-flare-fassets.md) |
 | [**ZeroLend One**](https://audits.sherlock.xyz/contests/466) | Lending, borrowing, isolated pools | 6H / 1M | 21st Place | [View Report](contests/2024-08-zerolend.md) |
 | [**Infrared**](https://cantina.xyz/code/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/overview) | Liquid staking, reward distribution | 1H | 🏅 32nd Place | [View Report](contests/2025-01-infrared.md) |
 | [**RAAC**](https://codehawks.cyfrin.io/c/2025-02-raac) | RWA lending, stablecoin, ve-governance | 14H / 21M / 6L | — | [View Report](contests/2025-02-raac.md) |
-| [**Plume**](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/) | RWA, modular L2 | 5H / 1L  | 35th place | [View Report](contests/2025-08-plume.md) |
+| [**Plume**](https://immunefi.com/audit-competition/plume-network-attackathon/leaderboard/) | RWA, modular L2 | 5H / 1L  | 35th place(under swarun identity) | [View Report](contests/2025-08-plume.md) |
 
 **Totals: 36H / 41M / 8L across Sherlock, Code4rena, Cantina, CodeHawks and Immunefi.**
 
